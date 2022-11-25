@@ -1,16 +1,54 @@
-### Hi there 👋
+Hi 👋 My name is Baha
+=====================
 
-<!--
-**BMathers35/BMathers35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate web developer from Turkey
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Turkey
+* ✉️  You can contact me at [baha.sener@hotmail.com](mailto:baha.sener@hotmail.com) or Social Media
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm Using
+
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/javascript-%23f0db4f.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/php-%238993be.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/html5-%23e34c26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/css3-%23264de4.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/bootstrap-%23563d7c.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/jquery-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="JQUERY" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/nodejs-%2368a063.svg?&style=for-the-badge&logo=Node.js&logoColor=white" alt="NODEJS" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/mysql-%2300758f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" style="margin-bottom: 5px;"/>
+  </a>
+</p>
+
+
+### Socail Media
+
+<p align="left">
+  <a href="https://discord.com/users/125262801315954688" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="github" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://www.github.com/BMathers35" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;"/>
+  </a> 
+  <a href="http://www.instagram.com/baha.png" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+  </a>
+</p>
+
+<a href="http://www.github.com/BMathers35"><img src="https://github-readme-stats.vercel.app/api?username=BMathers35&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="BMathers35's GitHub stats" /></a>
