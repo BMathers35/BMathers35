@@ -36,6 +36,19 @@ A passionate web developer from Turkey
   </a>
 </p>
 
+### Tools
+
+<p align="left">
+  <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?&style=for-the-badge&logo=XAMPP&logoColor=white" alt="XAMPP" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/phpstorm-%23000000.svg?&style=for-the-badge&logo=phpstorm&logoColor=white" alt="PHPSTORM" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://www.spotify.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="SPOTIFY" style="margin-bottom: 5px;"/>
+  </a>
+</p>
 
 ### Social Media
 
