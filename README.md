@@ -37,7 +37,7 @@ A passionate web developer from Turkey
 </p>
 
 
-### Socail Media
+### Social Media
 
 <p align="left">
   <a href="https://discord.com/users/125262801315954688" target="_blank" rel="noreferrer">
